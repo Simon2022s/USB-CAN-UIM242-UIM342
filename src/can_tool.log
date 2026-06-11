@@ -1,0 +1,13 @@
+2026-06-11 13:18:34,334 - INFO - Connected to CANALYST2
+2026-06-11 13:19:42,263 - INFO - Disconnected from device
+2026-06-11 13:19:42,999 - INFO - Connected to CANALYST2
+2026-06-11 13:20:36,556 - INFO - Disconnected from device
+2026-06-11 13:20:37,291 - INFO - Connected to OTHER
+2026-06-11 13:28:45,210 - WARNING - Invalid CAN frame footer: 0x05
+2026-06-11 13:29:28,277 - INFO - Disconnected from device
+2026-06-11 13:29:28,921 - INFO - Connected to CANALYST2
+2026-06-11 13:29:43,777 - INFO - Application closing
+2026-06-11 13:29:43,779 - INFO - Disconnected from device
+2026-06-11 13:30:26,117 - INFO - Connected to CANALYST2
+2026-06-11 13:30:53,500 - INFO - Application closing
+2026-06-11 13:30:53,502 - INFO - Disconnected from device
