@@ -101,7 +101,7 @@ Options:
 - Enter ID in HEX
 - Enter data bytes in HEX
 
-### Response Parsing
+### UIM242 Response Parsing
 
 The tool automatically parses responses:
 
@@ -117,7 +117,7 @@ Example: `CC 05 B0 0F 7F 58 78 00 FF` → -640000
 
 ## Command Reference
 
-### Motion Control
+### UIM342 Motion Control
 | Command | Description | Example |
 |---------|-------------|---------|
 | `BG` | Begin motion | `BG;` |
@@ -179,7 +179,7 @@ USB-CAN/
 
 ## Technical Details
 
-### Protocol Formats
+### UIM342 Protocol Formats
 
 #### CAN Gateway Frame (AA...55)
 ```
