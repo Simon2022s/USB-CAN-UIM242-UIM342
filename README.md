@@ -74,7 +74,7 @@ python main.py
 
 ### Sending Commands
 
-#### String Commands
+#### UIM342 String Commands
 Format: `CMD1;CMD2;CMD3;`
 
 Examples:
