@@ -196,7 +196,7 @@ USB-CAN/
 [ID] [CTRL] [LEN] [DATA...] [CRC16]
 ```
 
-### Data Parsing
+### UIM242 Data Parsing
 
 #### 3-Byte (16-bit signed)
 ```
