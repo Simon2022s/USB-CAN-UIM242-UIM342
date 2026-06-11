@@ -4,6 +4,8 @@ A Python-based GUI tool for CAN bus and MODBUS communication with USB-CAN adapte
 
 [![Website](https://img.shields.io/badge/Website-adampower.de-blue)](https://www.adampower.de/stepper-motor-controller/canbus-stepper-motor-controller)
 
+![Screenshot](USB-CAN_tool.png)
+
 ## Features
 
 - **Dual Protocol Support**: CAN bus (AA...55 format) and MODBUS (CC...FF format)
