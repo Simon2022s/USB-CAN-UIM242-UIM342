@@ -1,0 +1,26 @@
+2026-06-11 11:11:50,050 - INFO - Connected to OTHER
+2026-06-11 11:14:14,436 - INFO - Application closing
+2026-06-11 11:14:14,560 - INFO - Disconnected from device
+2026-06-11 11:21:17,180 - INFO - Connected to OTHER
+2026-06-11 11:21:40,253 - INFO - Application closing
+2026-06-11 11:21:40,379 - INFO - Disconnected from device
+2026-06-11 11:22:05,069 - INFO - Connected to OTHER
+2026-06-11 11:23:32,175 - INFO - Application closing
+2026-06-11 11:23:32,303 - INFO - Disconnected from device
+2026-06-11 11:23:44,039 - INFO - Connected to OTHER
+2026-06-11 12:36:41,222 - INFO - Application closing
+2026-06-11 12:36:41,340 - INFO - Disconnected from device
+2026-06-11 12:37:21,751 - INFO - Application closing
+2026-06-11 12:37:21,752 - INFO - Disconnected from device
+2026-06-11 12:37:38,494 - INFO - Application closing
+2026-06-11 12:37:38,495 - INFO - Disconnected from device
+2026-06-11 12:38:01,138 - INFO - Connected to OTHER
+2026-06-11 12:38:19,608 - WARNING - Invalid CAN frame footer: 0x00
+2026-06-11 12:40:07,435 - INFO - Application closing
+2026-06-11 12:40:07,566 - INFO - Disconnected from device
+2026-06-11 13:10:53,058 - INFO - Connected to OTHER
+2026-06-11 13:12:36,795 - INFO - Application closing
+2026-06-11 13:12:36,914 - INFO - Disconnected from device
+2026-06-11 13:48:45,584 - INFO - Connected to CANALYST2
+2026-06-11 13:49:01,508 - INFO - Application closing
+2026-06-11 13:49:01,509 - INFO - Disconnected from device
